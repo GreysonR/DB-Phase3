@@ -1,5 +1,5 @@
 # Setup
-1. Download files from the GitHub release page, or build from source (requires Rust installed) with `$ cargo build --release`
+1. Download `populate_db.exe` and `db_functions.exe` from the GitHub release page, or build from source (requires Rust installed) with `$ cargo build --release`
 2. Setup a MySQL database on localhost:3306
 3. Run `$ populate_db.exe [password] [data file]`, ie `$ populate_db.exe myRootPass data.txt`. The data.txt file used for testing can be found at the root of the repo
 
