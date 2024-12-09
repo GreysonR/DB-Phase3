@@ -1,0 +1,66 @@
+# ARTIST
+"Dan Deacon", "Comfort Stand Records", "Blending a background in experimental composition"
+"Arcade Fire", "Sonovox", "Arcade Fire became underground favorites when they debuted in 2004"
+"Radiohead", "XL", "Radiohead are a touchstone for all that is fearless and adventurous in rock"
+
+
+# USER
+"user1@email.com", "User 1"
+"user2@email.com", "User 2"
+"user3@email.com", "User 3"
+
+
+# COLLECTION
+"album", "Gliss Riffer", "Dan Deacon"
+"album", "Funeral", "Arcade Fire"
+"album", "Reflektor", "Arcade Fire"
+"album", "Kid A", "Radiohead"
+"single", "Ill Wind", "Radiohead"
+
+
+# SONG
+"Sheathed Wings", 248, "Gliss Riffer"
+"When I Was Done Dying", 258, "Gliss Riffer"
+"Steely Blues", 455, "Gliss Riffer"
+
+"Neighborhood #1 (Tunnels)", 452, "Funeral"
+"Neighborhood #2 (Laika)", 286, "Funeral"
+"Wake Up", 335, "Funeral"
+
+"Reflektor", 454, "Reflektor"
+"We Exist", 386, "Reflektor"
+
+"Everything In Its Right Place", 251, "Kid A"
+"Kid A", 285, "Kid A"
+"Optimistic", 316, "Kid A"
+
+"Ill Wind", 254, "Ill Wind"
+
+
+# OWNS
+3, "user1@email.com", "Sheathed Wings", "Gliss Riffer", "Dan Deacon"
+10, "user1@email.com", "When I Was Done Dying", "Gliss Riffer", "Dan Deacon"
+19, "user1@email.com", "Steely Blues", "Gliss Riffer", "Dan Deacon"
+23, "user1@email.com", "Everything In Its Right Place", "Kid A", "Radiohead"
+18, "user1@email.com", "Kid A", "Kid A", "Radiohead"
+20, "user1@email.com", "Optimistic", "Kid A", "Radiohead"
+
+3, "user2@email.com", "Everything In Its Right Place", "Kid A", "Radiohead"
+7, "user2@email.com", "Kid A", "Kid A", "Radiohead"
+8, "user2@email.com", "Optimistic", "Kid A", "Radiohead"
+2, "user2@email.com", "Ill Wind", "Ill Wind", "Radiohead"
+
+24, "user3@email.com", "Neighborhood #1 (Tunnels)", "Funeral", "Arcade Fire"
+18, "user3@email.com", "Neighborhood #2 (Laika)", "Funeral", "Arcade Fire"
+15, "user3@email.com", "Wake Up", "Funeral", "Arcade Fire"
+27, "user3@email.com", "Reflektor", "Reflektor", "Arcade Fire"
+12, "user3@email.com", "We Exist", "Reflektor", "Arcade Fire"
+
+
+# RELEASE_DATES
+"Gliss Riffer", "2015-02-24"
+"Funeral", "2004-9-14"
+"Reflektor", "2013-9-09"
+"Reflektor", "2013-10-28"
+"Kid A", "2000-10-02"
+"Ill Wind", "2019-02-18"
